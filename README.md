@@ -5,3 +5,11 @@
 
 ### Activity 3: Getting things ready locally
 ![Alt text](image-8.png)
+
+### Activity 4: Building and running the docker image locally
+Screenshots of the commands used:
+![Alt text](image-9.png)
+![Alt text](image-11.png)
+
+Screenshot of the running application:
+![Alt text](image-12.png)
